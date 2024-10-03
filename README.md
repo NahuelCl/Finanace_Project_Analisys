@@ -34,4 +34,5 @@ The correlation between closing prices of different stocks.
 ## Conclusion
 The analysis shows significant stock price volatility during the 2008 financial crisis, with strong correlations between major bank stocks.
 
-[View Full Analysis in Jupyter Notebook](3-Finance Project.ipynb)
+
+[View Full Analysis in Jupyter Notebook](3-Finance_Project.ipynb)
