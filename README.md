@@ -29,7 +29,7 @@ Here is the 30-day rolling average for Bank of America during 2008.
 ### 3. Stock Correlation
 The correlation between closing prices of different stocks.
 
-![Stock Correlation](images/stock_correlation.png)
+![Stock Correlation](stock_corr.png)
 
 ## Conclusion
 The analysis shows significant stock price volatility during the 2008 financial crisis, with strong correlations between major bank stocks.
