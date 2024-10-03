@@ -18,7 +18,7 @@ The dataset contains historical stock prices from Yahoo Finance for Bank of Amer
 ### 1. Stock Prices Over Time
 A comparative analysis of the closing prices for each bank stock:
 
-![Bank Stocks Close Price](images/bank_stocks_close_price.png)
+![Bank Stocks Close Price](bank_stocks_close_price.png)
 
 
 ### 2. Moving Average (Bank of America)
