@@ -24,7 +24,7 @@ A comparative analysis of the closing prices for each bank stock:
 ### 2. Moving Average (Bank of America)
 Here is the 30-day rolling average for Bank of America during 2008.
 
-![BAC Rolling Average](images/bac_rolling_avg.png)
+![BAC Rolling Average](moving_average_bac.png)
 
 ### 3. Stock Correlation
 The correlation between closing prices of different stocks.
